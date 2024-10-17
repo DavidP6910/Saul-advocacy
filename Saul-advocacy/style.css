@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+#t1{
+    font-size: 250px;
+}
+#t2{
+    font-size: 120px;
+    padding-left: 210px;
+}
+#bt1{
+    border: 5px,solid,white;
+    background-color: #430202;
+    width: 180px;
+    height: 50px;
+    font-size: 38px;
+    justify-content: center;
+    display: flex;
+    border-radius: 18px;
+    align-items: center;
+    margin-right: 50px;
+
+}
+#logo{
+    height: 50px;
+    margin-left: 50px;
+}
+header{
+    background-color: #430202;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+}
+#sect1{
+    background-color: black;
+}
+#kor{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    margin-top: 40px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+
+}
+#sect2{background-color: black;}
+#p1{
+    font-size: 80px;
+}
+#p2{
+    font-size: 140px;
+    
+}
+#ini{
+    display: flex;
+    justify-content: space-between;
+}
+#img2{
+    width: 50vw;
+    object-fit: cover;
+}
+#bt2{
+    width: 50vw;
+    border: 5px,solid,white;
+    background-color: #430202;
+    height: 50px;
+    font-size: 38px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+h3{
+    font-size: 110px;
+    text-align: center;
+    margin-top: 50px;
+    color: #430202;
+}
+#sect3{
+    background-color: white;
+    color: #430202;
+
+}
+#pp{
+    color: #430202;
+    text-align: center;
+    font-size: 50px;
+    width: 50vw;
+    margin: auto;
+    margin-top: 30px;
+}
+#bt3{
+    width: 150px;
+    border: 5px,solid,#430202;
+    background-color: white;
+    height: 50px;
+    font-size: 38px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: #430202;
+
+}
+.lol0{
+    background-color: #430202;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    
+
+}
+i{
+    color: white;
+    font-size: 100px;
+}
+#ava2{
+    display: flex;
+    justify-content: center;
+    
+}
